@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/evaly-clone/static/css/main.0c78f9ab.chunk.css",
+    "main.js": "/evaly-clone/static/js/main.1be1a23a.chunk.js",
+    "main.js.map": "/evaly-clone/static/js/main.1be1a23a.chunk.js.map",
+    "runtime-main.js": "/evaly-clone/static/js/runtime-main.becb3a0d.js",
+    "runtime-main.js.map": "/evaly-clone/static/js/runtime-main.becb3a0d.js.map",
+    "static/js/2.d297e9eb.chunk.js": "/evaly-clone/static/js/2.d297e9eb.chunk.js",
+    "static/js/2.d297e9eb.chunk.js.map": "/evaly-clone/static/js/2.d297e9eb.chunk.js.map",
+    "index.html": "/evaly-clone/index.html",
+    "static/css/main.0c78f9ab.chunk.css.map": "/evaly-clone/static/css/main.0c78f9ab.chunk.css.map",
+    "static/js/2.d297e9eb.chunk.js.LICENSE.txt": "/evaly-clone/static/js/2.d297e9eb.chunk.js.LICENSE.txt",
+    "static/media/1.jpeg": "/evaly-clone/static/media/1.3118a5b0.jpeg",
+    "static/media/1.jpg": "/evaly-clone/static/media/1.e74cf88d.jpg",
+    "static/media/2.jpg": "/evaly-clone/static/media/2.647ce802.jpg",
+    "static/media/2.jpeg": "/evaly-clone/static/media/2.b027f900.jpeg",
+    "static/media/3.jpeg": "/evaly-clone/static/media/3.860dea1c.jpeg",
+    "static/media/4.jpeg": "/evaly-clone/static/media/4.31f90b95.jpeg",
+    "static/media/4.png": "/evaly-clone/static/media/4.c9f12cb3.png",
+    "static/media/5.jpeg": "/evaly-clone/static/media/5.0e9bcdb8.jpeg",
+    "static/media/5.jpg": "/evaly-clone/static/media/5.33e67b02.jpg",
+    "static/media/6.jpeg": "/evaly-clone/static/media/6.20d9fe64.jpeg",
+    "static/media/7.png": "/evaly-clone/static/media/7.7dd9b21b.png",
+    "static/media/7.jpeg": "/evaly-clone/static/media/7.dfe6e179.jpeg",
+    "static/media/index.css": "/evaly-clone/static/media/carousel-banner.430a8b9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.becb3a0d.js",
+    "static/js/2.d297e9eb.chunk.js",
+    "static/css/main.0c78f9ab.chunk.css",
+    "static/js/main.1be1a23a.chunk.js"
+  ]
+}
